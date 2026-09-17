@@ -48,6 +48,5 @@ int main() {
    } else {
      printf("Bo are we semrious right neow");
    }
-
-    return 0;
+   getchar(); 
 }
